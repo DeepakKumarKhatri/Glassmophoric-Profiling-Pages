@@ -29,7 +29,7 @@ And in CSS I learned about:
 
 To deploy this project I used Netlify
 
-[Live Demo](https://glassmophoricprofiling.netlify.app/)
+[Live Demo](https://glassmorphicprofilingdeepak.netlify.app/)
 
 
 ## Author
